@@ -1,6 +1,6 @@
 # About Me
 
-I currently work as a management consultant with a focus on data analysis within the healthcare industry. In my free time, I enjoy developing applicaitons with a front-end flair, hacking away on business ideas with friends, and spending time learning new songs on the Ukulele.
+I currently work as a management consultant with a focus on data analysis within the healthcare industry. In my free time, I enjoy developing applicaitons with a front-end flair, developing accessible & robust back-ends, and hacking away on business ideas with friends.
 
 ### You Can Follow me Here
 
@@ -11,7 +11,7 @@ I currently work as a management consultant with a focus on data analysis within
 
 ### Things I Am Interested In
 
-- Coding & Side Projects
+- Full Stack JavaScript Development
 - Traveling
 - Cooking
 - Backpacking
@@ -22,11 +22,11 @@ JavaScript
 
 - React
 - Node.js
+- RedwoodJS
 
 Python
 
 - Pandas
-- Scikit-learn
 - Flask
 
 Cloud Deployment
@@ -36,4 +36,4 @@ Cloud Deployment
 
 ### Projects In Progress
 
-I am currently building out a React application with a machine learning focus, developing an analytical business, & learning Rust for networking. If you would like to collaborate, feel free to drop a line!
+I am currently building out a full stack JavaScript application, developing an analytical business, & learning Rust for networking. If you would like to collaborate, feel free to drop a line!
