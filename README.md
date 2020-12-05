@@ -1,6 +1,6 @@
 # About Me
 
-I currently work as a management consultant with a focus on data analysis within the healthcare industry. In my free time, I enjoy developing applicaitons with a front-end flair, developing accessible & robust back-ends, and hacking away on business ideas with friends.
+I currently work as a management consultant with a focus on data analysis within the healthcare industry. In addition to this, I enjoy developing data & analytic driven applications, creating data pipelines & APIs, and hacking away on business ideas with friends.
 
 ### You Can Follow me Here
 
@@ -11,23 +11,32 @@ I currently work as a management consultant with a focus on data analysis within
 
 ### Things I Am Interested In
 
-- Full Stack JavaScript Development
+- Ananalytics & Business Intelligence
+- Data Visualization
+- Python
 - Traveling
 - Cooking
 - Backpacking
 
 ### Favorite Technologies To Work With
 
+Python
+
+- Pandas
+- Streamlit
+- Scikit-learn
+- Flask
+
+Visualization
+
+- PowerBI
+- Tableau
+
 JavaScript
 
 - React
 - Node.js
 - RedwoodJS
-
-Python
-
-- Pandas
-- Flask
 
 Cloud Deployment
 
@@ -36,4 +45,4 @@ Cloud Deployment
 
 ### Projects In Progress
 
-I am currently building out a full stack JavaScript application, developing an analytical business, & learning Rust for networking. If you would like to collaborate, feel free to drop a line!
+I am currently developing full a big data dashboard with a focus on government & higher education, workshopping an analytical business, & learning Rust for networking. If you would like to collaborate, feel free to drop a line!
