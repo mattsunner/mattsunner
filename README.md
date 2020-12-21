@@ -14,6 +14,7 @@ I currently work as a management consultant with a focus on data analysis within
 - Ananalytics & Business Intelligence
 - Data Visualization
 - Python
+- Machine Learning
 - Traveling
 - Cooking
 - Backpacking
@@ -23,20 +24,14 @@ I currently work as a management consultant with a focus on data analysis within
 Python
 
 - Pandas
-- Streamlit
+- TensorFlow
 - Scikit-learn
 - Flask
 
 Visualization
 
-- PowerBI
 - Tableau
-
-JavaScript
-
-- React
-- Node.js
-- RedwoodJS
+- PowerBI
 
 Cloud Deployment
 
@@ -45,4 +40,4 @@ Cloud Deployment
 
 ### Projects In Progress
 
-I am currently developing full a big data dashboard with a focus on government & higher education, workshopping an analytical business, & learning Rust for networking. If you would like to collaborate, feel free to drop a line!
+I am currently developing dashboards and data pipelines with a focus on government & higher education, workshopping an analytical business, & learning TensorFlow. If you would like to collaborate, feel free to drop a line!
