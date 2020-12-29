@@ -12,26 +12,25 @@ I currently work as a management consultant with a focus on data analysis within
 ### Things I Am Interested In
 
 - Ananalytics & Business Intelligence
-- Data Visualization
+- Networking
 - Python
-- Machine Learning
+- JavaScript & TypeScript
 - Traveling
 - Cooking
 - Backpacking
 
 ### Favorite Technologies To Work With
 
+JavaScirpt 
+
+- Express
+- Node.js
+- React
+
 Python
 
-- Pandas
-- TensorFlow
-- Scikit-learn
+- Django
 - Flask
-
-Visualization
-
-- Tableau
-- PowerBI
 
 Cloud Deployment
 
@@ -40,4 +39,4 @@ Cloud Deployment
 
 ### Projects In Progress
 
-I am currently developing dashboards and data pipelines with a focus on government & higher education, workshopping an analytical business, & learning TensorFlow. If you would like to collaborate, feel free to drop a line!
+I am currently developing full stack developer-style tooling, workshopping an analytical business, & learning golang for backend infrastructure and networking. If you would like to collaborate, feel free to drop a line!
