@@ -1,6 +1,6 @@
 # About Me
 
-I currently work as a management consultant with a focus on data analysis within the healthcare industry. In addition to this, I enjoy developing data & analytic driven applications, creating data pipelines & APIs, and hacking away on business ideas with friends.
+I currently work as a management consultant with a focus on data analysis within the research hospital industry. In addition to this, I enjoy developing data & analytic driven applications, creating data pipelines & RESTful APIs.
 
 ### You Can Follow me Here
 
@@ -9,34 +9,37 @@ I currently work as a management consultant with a focus on data analysis within
 <a href="https://www.linkedin.com/in/mattsunner" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="http://mattsunner.com" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a>
 
-### Things I Am Interested In
+### Technologies I Am Interested In
 
-- Ananalytics & Business Intelligence
-- Networking
 - Python
-- JavaScript & TypeScript
-- Traveling
-- Cooking
-- Backpacking
+- SQL
+- ETL Development
+- Machine Learning
 
 ### Favorite Technologies To Work With
 
-JavaScirpt 
-
-- Express
-- Node.js
-- React
-
 Python
 
-- Django
-- Flask
+- Pandas
+- Numpy
+- Plotly
+- Tensorflow
 
 Cloud Deployment
 
 - Docker
 - AWS
 
+Data Visualization
+
+- Tableau
+- PowerBI
+
+Machine Learning
+
+- TensorFlow
+- Scikit-learn
+
 ### Projects In Progress
 
-I am currently developing full stack developer-style tooling, workshopping an analytical business, & learning golang for backend infrastructure and networking. If you would like to collaborate, feel free to drop a line!
+I am currently developing full stack data pipelines for a visualization application & learning golang for backend infrastructure and networking. If you would like to collaborate, feel free to drop a line!
