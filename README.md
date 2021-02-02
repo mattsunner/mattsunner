@@ -12,9 +12,9 @@ I currently work as a management consultant with a focus on data analysis within
 ### Technologies I Am Interested In
 
 - Python
+- Golang
 - SQL
-- ETL Development
-- Machine Learning
+- Cloud Networking
 
 ### Favorite Technologies To Work With
 
@@ -25,21 +25,12 @@ Python
 - Plotly
 - Tensorflow
 
-Cloud Deployment
+Cloud Deployment & Networking
 
 - Docker
 - AWS
 
-Data Visualization
-
-- Tableau
-- PowerBI
-
-Machine Learning
-
-- TensorFlow
-- Scikit-learn
 
 ### Projects In Progress
 
-I am currently developing full stack data pipelines for a visualization application & learning golang for backend infrastructure and networking. If you would like to collaborate, feel free to drop a line!
+I am currently developing full stack data pipelines for a enterprise level application & learning golang for backend infrastructure and networking. If you would like to collaborate, feel free to drop a line!
