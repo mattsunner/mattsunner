@@ -1,6 +1,6 @@
 # About Me
 
-I currently work as a management consultant with a focus on data analysis within the research hospital industry. In addition to this, I enjoy developing data & analytic driven applications, creating data pipelines & RESTful APIs.
+I currently work as a management consultant with a focus on data analysis within the research hospital industry. In addition to this, I enjoy developing data & analytic driven applications, library code based around automation & RESTful APIs.
 
 ### You Can Follow me Here
 
@@ -12,7 +12,7 @@ I currently work as a management consultant with a focus on data analysis within
 ### Technologies I Am Interested In
 
 - Python
-- Golang
+- Go
 - SQL
 - Cloud Networking
 
@@ -23,7 +23,12 @@ Python
 - Pandas
 - Numpy
 - Plotly
-- Tensorflow
+- Flask (API Development)
+
+SQL/Databases
+
+- MySQL
+- MongoDB
 
 Cloud Deployment & Networking
 
@@ -33,4 +38,4 @@ Cloud Deployment & Networking
 
 ### Projects In Progress
 
-I am currently developing full stack data pipelines for a enterprise level application & learning golang for backend infrastructure and networking. If you would like to collaborate, feel free to drop a line!
+I am currently developing a full stack enterprise level application & learning Go for backend infrastructure and networking. If you would like to collaborate, feel free to drop a line!
