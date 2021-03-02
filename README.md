@@ -13,22 +13,23 @@ I currently work as a management consultant with a focus on data analysis within
 
 - Python
 - Go
-- SQL
+- Distributed Architectures
+- Microservices
 - Cloud Networking
 
 ### Favorite Technologies To Work With
 
 Python
 
+- Flask
+- FastAPI
 - Pandas
 - Numpy
 - Plotly
-- Flask (API Development)
 
-SQL/Databases
-
-- MySQL
-- MongoDB
+Go
+- net/http
+- mux
 
 Cloud Deployment & Networking
 
