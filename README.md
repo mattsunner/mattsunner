@@ -1,6 +1,6 @@
 # About Me
 
-I currently work as a management consultant with a focus on data analysis within the research hospital industry. In addition to this, I enjoy developing data & analytic driven applications, library code based around automation & RESTful APIs.
+I currently work as a Sr. Financial Analyst with a focus on data analysis and revenue forecasting. In addition to this, I enjoy developing data & analytic driven applications, library code based around automation & RESTful APIs.
 
 ### You Can Follow me Here
 
@@ -21,11 +21,11 @@ I currently work as a management consultant with a focus on data analysis within
 
 Python
 
-- Flask
 - FastAPI
 - Pandas
 - Numpy
 - Plotly
+- scikit-learn
 
 Go
 - net/http
@@ -39,4 +39,4 @@ Cloud Deployment & Networking
 
 ### Projects In Progress
 
-I am currently developing a full stack enterprise level application & learning Go for backend infrastructure and networking. If you would like to collaborate, feel free to drop a line!
+I am currently developing a machine learning models with a focus on financial and business application as well as learning Go for backend infrastructure and networking. If you would like to collaborate, feel free to drop a line!
