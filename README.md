@@ -1,6 +1,6 @@
 # About Me
 
-I currently work as a Sr. Financial Analyst with a focus on data analysis and revenue forecasting. In addition to this, I enjoy developing data & analytic driven applications, library code based around automation & RESTful APIs.
+Developer & consultant with a background in data processing automation, API development, and change management consulting with a focus on future state technological advances in financial analysis.
 
 ### You Can Follow me Here
 
@@ -11,32 +11,22 @@ I currently work as a Sr. Financial Analyst with a focus on data analysis and re
 
 ### Technologies I Am Interested In
 
+- Cloud Computing
+- JavaScript
 - Python
 - Go
 - Distributed Architectures
 - Microservices
-- Cloud Networking
 
 ### Favorite Technologies To Work With
 
 Python
 
 - FastAPI
-- Pandas
-- Numpy
+- Django
 - Plotly
 - scikit-learn
 
-Go
-- net/http
-- mux
+JavaScript
 
-Cloud Deployment & Networking
-
-- Docker
-- AWS
-
-
-### Projects In Progress
-
-I am currently developing a machine learning models with a focus on financial and business application as well as learning Go for backend infrastructure and networking. If you would like to collaborate, feel free to drop a line!
+- React/React Native
