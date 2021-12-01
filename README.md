@@ -12,9 +12,7 @@ Developer & consultant with a background in data processing automation, API deve
 ### Technologies I Am Interested In
 
 - Cloud Computing
-- JavaScript
 - Python
-- Go
 - Distributed Architectures
 - Microservices
 
@@ -22,11 +20,6 @@ Developer & consultant with a background in data processing automation, API deve
 
 Python
 
-- FastAPI
 - Django
 - Plotly
 - scikit-learn
-
-JavaScript
-
-- React/React Native
