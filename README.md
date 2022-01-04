@@ -1,6 +1,6 @@
 # About Me
 
-Developer & consultant with a background in data processing automation, API development, and change management consulting with a focus on future state technological advances in financial analysis.
+Developer & financial analyst with a background in financial modeling, consulting, automation development, and change management with a focus on fusing modern technologies to streamline the financial analysis process.
 
 ### You Can Follow me Here
 
@@ -11,8 +11,8 @@ Developer & consultant with a background in data processing automation, API deve
 
 ### Technologies I Am Interested In
 
-- Cloud Computing
 - Python
+- Cloud Computing
 - Distributed Architectures
 - Microservices
 
@@ -23,3 +23,9 @@ Python
 - Django
 - Plotly
 - scikit-learn
+
+Cloud 
+
+- AWS
+- IBM
+- Oracle Cloud
