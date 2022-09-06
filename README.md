@@ -13,19 +13,4 @@ Developer & financial analyst with a background in financial modeling, consultin
 
 - Python
 - Cloud Computing
-- Distributed Architectures
-- Microservices
-
-### Favorite Technologies To Work With
-
-Python
-
-- Django
-- Plotly
-- scikit-learn
-
-Cloud 
-
-- AWS
-- IBM
-- Oracle Cloud
+- Business Intelligence & Data Engineering
