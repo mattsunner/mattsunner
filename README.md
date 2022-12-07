@@ -1,6 +1,6 @@
 # About Me
 
-Developer & financial analyst with a background in financial modeling, consulting, automation development, and change management with a focus on fusing modern technologies to streamline the financial analysis process.
+BI Analyst and Data Scientist with a background in financial modeling, consulting, automation development, and change management with a focus on fusing modern technologies to streamline the data reporting process.
 
 ### You Can Follow me Here
 
