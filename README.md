@@ -1,6 +1,6 @@
 # About Me
 
-BI Analyst and Data Scientist with a background in financial modeling, consulting, automation development, and change management with a focus on fusing modern technologies to streamline the data reporting process.
+Experienced solutions architect & cloud engineer with a focus on process automation, cost optimization & resilient architecture design
 
 ### You Can Follow me Here
 
@@ -11,6 +11,6 @@ BI Analyst and Data Scientist with a background in financial modeling, consultin
 
 ### Technologies I Am Interested In
 
-- Python
+- Go
 - Cloud Computing
-- Business Intelligence & Data Engineering
+- FinOps
